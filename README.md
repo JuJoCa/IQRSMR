@@ -9,4 +9,6 @@ eficiencia de la red. Esto es posible debido a que el algoritmo Q-learning es si
 solución óptima en contextos Markovianos. Este algoritmo es apropiado para aprender funciones de valor en problemas discretos y se basa en un 
 enfoque libre de modelo, eliminando la necesidad de un conocimiento completo del entorno para tomar decisiones.
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://github.com/JuJoCa/IQRSMR/img/topologia.png</span><span>)</span>
+La arquitectura usada es la siguiente:
+
+![Topologia](https://github.com/JuJoCa/IQRSMR/blob/main/img/topologia.PNG)
